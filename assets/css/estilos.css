@@ -19,7 +19,17 @@ body {
   background-size: cover;
   background-position: center;
 }
-
+.fw-bold {
+    font-weight: 700 !important;
+    color: #3b3b3b;
+}
+.bajada-titulo {
+  color:#3b3b3b ;
+}
+.row.trabajos {
+    display: flex;
+    justify-content: center;
+}
 /* Contacto */
 
 #Contacto form label {
